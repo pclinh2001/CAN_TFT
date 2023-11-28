@@ -1,0 +1,12 @@
+../Drivers/BSP/Components/wm8994/wm8994.c:131:10:wm8994_Init	32	static
+../Drivers/BSP/Components/wm8994/wm8994.c:370:10:wm8994_ReadID	16	static
+../Drivers/BSP/Components/wm8994/wm8994.c:384:10:wm8994_Play	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:400:10:wm8994_Pause	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:419:10:wm8994_Resume	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:443:10:wm8994_Stop	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:485:10:wm8994_SetVolume	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:540:10:wm8994_SetMute	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:572:10:wm8994_SetOutputMode	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:659:10:wm8994_SetFrequency	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:714:10:wm8994_Reset	24	static
+../Drivers/BSP/Components/wm8994/wm8994.c:731:16:CODEC_IO_Write	24	static
